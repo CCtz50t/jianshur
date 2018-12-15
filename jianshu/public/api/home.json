@@ -1,0 +1,68 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+            "id": 1,
+            "title": "社会热点",
+            "imgUrl": "#"
+        },{
+            "id": 2,
+            "title": "手绘",
+            "imgUrl": "#"
+        }],
+    
+        "articleList": [{
+            "id": 1,
+            "title": "标题",
+            "describe": "正文内容",
+            "imgUrl": "#"
+        },{
+            "id": 2,
+            "title": "标题",
+            "describe": "正文内容",
+            "imgUrl": "#"
+        },{
+            "id": 3,
+            "title": "标题",
+            "describe": "正文内容",
+            "imgUrl": "#"
+        },{
+            "id": 4,
+            "title": "标题",
+            "describe": "正文内容",
+            "imgUrl": "#"
+        },{
+            "id": 5,
+            "title": "标题",
+            "describe": "正文内容",
+            "imgUrl": "#"
+        }],
+    
+        "writerList":[{
+            "id": 1,
+            "autors": "作者1",
+            "words": "写了374.7k字 - 3.7k喜欢",
+            "imgUrl": "#"
+        },{
+            "id": 2,
+            "autors": "作者2",
+            "words": "写了613.6k字 - 7.2k喜欢",
+            "imgUrl": "#"
+        },{
+            "id": 3,
+            "autors": "作者3",
+            "words": "写了321.3k字 - 7k喜欢",
+            "imgUrl": "#"
+        },{
+            "id": 4,
+            "autors": "作者4",
+            "words": "写了384.1字 - 1.7k喜欢",
+            "imgUrl": "#"
+        },{
+            "id": 5,
+            "autors": "作者5",
+            "words": "写了132.6k字 - 413喜欢",
+            "imgUrl": "#"
+        }]
+    }
+}
